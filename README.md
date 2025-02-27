@@ -1,0 +1,1 @@
+A toy balloon simulation project with physical interaction. The balls interact with each other through forces similar to electric and gravitational. Inertia is ignored by the model, and motion is determined entirely by total acceleration. In this scenario, any configuration of the balls eventually acquires a symmetrical shape.
